@@ -19,7 +19,7 @@
 <code><a href="mailto:singh.psn12@gmail.com" title="Gmail - Pradhuman"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 <code><a href="https://gaulghost.github.io" title="Website - Pradhuman"><img width="40px" src="https://user-images.githubusercontent.com/49186033/112720924-3fb11b00-8f27-11eb-869c-c36745e84764.png" title="Personal Website"/></a></code>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gaulghost/PetroCoder/HEAD?filepath=PetroCoder_Round3_ByPradhuman.ipynb) - PetroCoder (Latest Project, Optimising Rate of Penetration)
+<a href="https://gaulghost.shinyapps.io/JusPayDatathon/">JusPayDatathon - Latest Project (R, R Shiny)</a> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaulghost&label=Profile%20Views&color=0e75b6&style=flat" alt="Gaulghost - Pradhuman" /> </p>
 <!--
